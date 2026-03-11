@@ -1,7 +1,7 @@
-## Hi there 👋
+## Holaaaaa 👋
 
 <!--
-**EG49/EG49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EG_49/EG_49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
